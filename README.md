@@ -5,6 +5,7 @@
 
 ## 🌐 Socials:
 shubh1998.sm@gmail.com (GMAIL)
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-a-m-manjrekar-21745722b/) (LINKEDIN)
 
 # 💻 Tech Stack:
@@ -24,4 +25,3 @@ shubh1998.sm@gmail.com (GMAIL)
 [![](https://visitcount.itsvg.in/api?id=Coldzz189&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
