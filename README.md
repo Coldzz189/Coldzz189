@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 # 💫 About Me:
 🧠 I'm currently learning Devops tools AWS | GIT | DOCKER | JENKINS | KUBERNETES | TERRAFORM<br><br>👩‍💻 I'm currently working as a Devops Engineer<br><br>👯‍♀️ I'm looking to collaborate on Devops <br><br>📫 You can reach me on Gmail and LinkedIN in Links
 
@@ -25,4 +23,4 @@
 [![](https://visitcount.itsvg.in/api?id=Coldzz189&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
